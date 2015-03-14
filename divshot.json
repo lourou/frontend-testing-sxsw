@@ -1,6 +1,6 @@
 {
   "name": "frontend-testing-sxsw",
-  "root": "dist",
+  "root": "./",
   "clean_urls": true,
   "error_page": "error.html"
 }
